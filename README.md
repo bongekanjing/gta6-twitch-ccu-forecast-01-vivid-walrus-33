@@ -1,10 +1,13 @@
 # GTA VI launch-day Twitch CCU forecaster
 
-[![Forecast GTA VI's launch-day Twitch viewers](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/bongekanjing/gta6-twitch-ccu-forecast-01-vivid-walrus-33/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/bongekanjing/gta6-twitch-ccu-forecast-01-vivid-walrus-33/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
 
 An entry in [Forecast GTA VI's launch-day Twitch viewers hour by hour](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
-on make.fun: five quantiles of the "Grand Theft Auto VI" Twitch category's concurrent viewers for each
-hour 2..24 of 2026-11-19 UTC, from that day's hour-1 print and 38..42 past launches' curves.
+on [make.fun](https://make.fun): five quantiles of the "Grand Theft Auto VI" Twitch category's
+concurrent viewers for each hour 2..24 of 2026-11-19 UTC, from that day's hour-1 print and 38..42 past
+launches' curves.
 
 ## Run it
 
